@@ -12,5 +12,6 @@
     <modules>
         <module>redis-products</module>
         <module>redis-students</module>
+        <module>redis-movies</module>
     </modules>
 </project>
