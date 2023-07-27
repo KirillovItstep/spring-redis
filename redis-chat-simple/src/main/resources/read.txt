@@ -1,0 +1,4 @@
+В разных вкладках браузера
+let ws=new WebSocket('ws://localhost:8080/user/u1');
+ws.onmessage=message=>{console.log(message.data);}
+ws.send('u2->hello from u1');

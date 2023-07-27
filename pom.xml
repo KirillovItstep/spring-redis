@@ -13,5 +13,7 @@
         <module>redis-products</module>
         <module>redis-students</module>
         <module>redis-movies</module>
+        <module>redis-chat</module>
+        <module>redis-chat-simple</module>
     </modules>
 </project>
