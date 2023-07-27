@@ -1,7 +1,6 @@
 package org.itstep.websockets;
 
 import org.springframework.web.socket.WebSocketSession;
-
 import java.util.*;
 
 public class WebSocketHelper {
